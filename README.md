@@ -1,7 +1,6 @@
 # Pengalaman Belajar di Dicoding
 ## Ini Tanda setelah merge dari Branch Development
 Belajar Github di Dicoding itu seru!
-
 **14 Juni 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 * Belajar tentang apa itu Java dan alasan menggunakannya.
