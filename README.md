@@ -1,5 +1,5 @@
 # Pengalaman Belajar di Dicoding
-## Ini Branch baru
+## Ini Tanda setelah merge dari Branch Development
 
 **14 Juni 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
